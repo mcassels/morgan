@@ -1,4 +1,5 @@
 import Layout, { Header } from 'antd/es/layout/layout';
+import { Content } from 'antd/es/layout/layout';
 import './App.css'
 import SiteContent from './SiteContent';
 
@@ -11,7 +12,9 @@ function App() {
           <p className="text-lg pt-4">Software Engineer</p>
         </div>
       </Header>
-      <SiteContent />
+      <Content className="bg-white">
+        <SiteContent />
+      </Content>
     </Layout>
   );
 }
