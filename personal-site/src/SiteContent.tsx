@@ -1,7 +1,7 @@
 import Button from 'antd/es/button/button';
 import Card from 'antd/es/card/Card';
 import './App.css'
-import { Content } from 'antd/es/layout/Layout';
+import { Content } from 'antd/es/layout/layout';
 import Link from 'antd/es/typography/Link';
 import { GithubOutlined, LinkedinOutlined } from '@ant-design/icons';
 

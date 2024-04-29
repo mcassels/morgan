@@ -1,4 +1,4 @@
-import Layout, { Header } from 'antd/es/layout/Layout';
+import Layout, { Header } from 'antd/es/layout/layout';
 import './App.css'
 import SiteContent from './SiteContent';
 
