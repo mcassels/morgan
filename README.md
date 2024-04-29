@@ -1,5 +1,5 @@
 # Morgan Brooks
 ## Software Engineer
 
-* Email me: [morgan.jean.brooks@gmail.com](mailto:morgan.jean.brooks@gmail.com)
+* Email me: [morgan@morganbrooks.io](mailto:morgan@morganbrooks.io)
 * Say hi on [LinkedIn](https://www.linkedin.com/in/morganjbrooks/)
