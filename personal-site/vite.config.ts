@@ -13,6 +13,7 @@ export default defineConfig({
           'react-dom': ['react-dom'],
         },
       },
-    }
+    },
+    chunkSizeWarningLimit: 1024,
   }
 })
