@@ -2,7 +2,7 @@ import Button from 'antd/es/button/button';
 import Card from 'antd/es/card/Card';
 import './App.css'
 import Link from 'antd/es/typography/Link';
-import { GithubOutlined, LinkedinOutlined, FileTextOutlined } from '@ant-design/icons';
+import { GithubOutlined, LinkedinOutlined } from '@ant-design/icons';
 
 export default function SiteContent() {
   return (
@@ -14,12 +14,12 @@ export default function SiteContent() {
         >
           <div><GithubOutlined className="pr-2" />Github</div>
         </Button>
-        <Button
+        {/* <Button
           href="/morgan_brooks_resume.pdf"
           target="_blank"
         >
           <div><FileTextOutlined className="pr-2" />Resume</div>
-        </Button>
+        </Button> */}
       </div>
       <Card className="max-w-fit" title="Get in touch">
         <ul>
